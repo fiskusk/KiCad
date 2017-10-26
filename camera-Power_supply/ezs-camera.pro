@@ -1,4 +1,4 @@
-update=23.10.2017 8:38:53
+update=26.10.2017 20:01:00
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,9 +25,19 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=60
+ERC_TestSimilarLabels=1
 [eeschema]
 version=1
-LibDir=
+LibDir=C:/Users/Uzivatel/Documents/_KiCad/_library
 [eeschema/libraries]
 LibName1=ezs-camera-rescue
 LibName2=power
@@ -62,13 +72,6 @@ LibName30=valves
 LibName31=bq2407x
 LibName32=tps6123x
 LibName33=symbols
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceAjustPassiveValues=0
-LabSize=60
-ERC_TestSimilarLabels=1
+LibName34=_saved_ezs-camera-rescue
+LibName35=ezs-camera-cache
+LibName36=lm3405

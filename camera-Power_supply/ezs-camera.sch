@@ -32,7 +32,9 @@ LIBS:valves
 LIBS:bq2407x
 LIBS:tps6123x
 LIBS:symbols
+LIBS:_saved_ezs-camera-rescue
 LIBS:ezs-camera-cache
+LIBS:lm3405
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -48,7 +50,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L CONN_01X12 J1
+L Conn_01x12 J1
 U 1 1 597E7495
 P 8050 1750
 F 0 "J1" H 8050 2400 50  0000 C CNN
@@ -83,7 +85,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/uln2003a.pdf" H 8600 2700 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L CONN_01X05 J3
+L Conn_01x05 J3
 U 1 1 597E80E3
 P 8600 3750
 F 0 "J3" H 8600 4050 50  0000 C CNN
